@@ -1,0 +1,33 @@
+{
+  "name": "expensemanager",
+  "version": "1.0.0",
+  "description": "Expense manager project created using reactjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binodmagar/ExpenseManager.git"
+  },
+  "author": "BinodRana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binodmagar/ExpenseManager/issues"
+  },
+  "homepage": "https://github.com/Binodmagar/ExpenseManager#readme",
+  "dependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-transform-arrow-functions": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
